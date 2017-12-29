@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Penampil Kode</string>
+    <string-array name="list_spin">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>

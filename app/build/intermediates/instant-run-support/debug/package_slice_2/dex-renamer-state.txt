@@ -1,0 +1,4 @@
+#Fri Dec 29 16:58:34 ICT 2017
+base.0=C\:\\Users\\Wildanifqie\\Downloads\\Compressed\\AplikasiPenampilKode\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
